@@ -1,9 +1,19 @@
 {
-  "version": "1.0.0",
-  "theme_name": "Test Theme",
-  "repo_url": "https://github.com/MohammedAlez/Template6",
-  "support_url": "https://github.com/MohammedAlez/Template6",
-  "settings": [],
-  "features": [],
-  "components": []
+    "version": "1.0.0",
+    "theme_name": "Test Theme",
+    "repo_url": "https://github.com/MohammedAlez/Template6",
+    "support_url": "https://mohammedalez.github.io/Template6/",
+    "settings": [],
+    "features": [],
+    "components": [],
+    "name": {
+        "ar": "Test Theme",
+        "en": "Test Theme"
+    },
+    "description": {
+        "ar": "test themetest themetest themetest themetest themetest themetest themetest themetest themetest themetest theme",
+        "en": "this is a test them this is a test them this is a test them this is a test them this is a test them this is a test them this is a test them"
+    },
+    "author_email": "mohammed.alez@yahoo.com",
+    "repository": "https://github.com/MohammedAlez/Template6"
 }
